@@ -1,0 +1,17 @@
+{
+"companyName": "NEW FORMS",
+"productName": "HDRi",
+"productVersion": "0.3",
+"dataUrl": "HDRiCLEAN.data.unityweb",
+"wasmCodeUrl": "HDRiCLEAN.wasm.code.unityweb",
+"wasmFrameworkUrl": "HDRiCLEAN.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HDRiCLEAN.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
